@@ -1,0 +1,9 @@
+export const primary = "#4a148c";
+export const primary_dark = "#12005e";
+export const primary_light = "#721FD8";
+export const green = "#2bbc7d";
+export const red = "#E2264D";
+export const gray = "#96989A";
+export const white = "#FFFFFF";
+export const black = "#000000";
+export const secundary_text = "#003f1a";
